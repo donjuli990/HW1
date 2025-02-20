@@ -426,14 +426,14 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0HSMD2Hgdb4bcQWk6r_O-30" value="" style="endArrow=ERoneToMany;startArrow=ERmandOne;endFill=0;startFill=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="3ehIjHs2K8UcwK9uWAea-72">
+        <mxCell id="0HSMD2Hgdb4bcQWk6r_O-30" value="" style="endArrow=ERoneToMany;startArrow=ERmandOne;endFill=0;startFill=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="330" y="225" as="sourcePoint" />
-            <mxPoint x="240" y="218" as="targetPoint" />
+            <mxPoint x="330" y="200" as="sourcePoint" />
+            <mxPoint x="230" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0HSMD2Hgdb4bcQWk6r_O-31" value="Pay installments for" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#143642;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="250" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0HSMD2Hgdb4bcQWk6r_O-43" value="" style="endArrow=ERmandOne;startArrow=ERoneToMany;endFill=0;startFill=0;labelBackgroundColor=none;strokeColor=#A8201A;fontColor=default;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
